@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Siddiq Shaikh",
+    "rating": 5,
+    "text": "Very good experience with Bajm tours & Travels. Starting from Pune, everything was guided perfectly. Hotel stay and food were excellent, especially for elder people. Room was very near to Haram Sharif, making it easy to attend all prayers. Highly recommended for anyone planning Hajj or Umrah!",
+    "location": "Pune, India",
+    "package": "Premium Hajj Package"
+  },
+  {
+    "id": 2,
+    "name": "Sofiya Tamboli",
+    "rating": 5,
+    "text": "Masha Allah Tabarakallah! We are very satisfied with the service. We extremely enjoyed our Umrah journey. Food deserves special mention. The Ziyarah journey was absolutely knowledgeable. I highly recommend this service for Umrah & Hajj.",
+    "location": "Mumbai, India",
+    "package": "Deluxe Umrah Package"
+  },
+  {
+    "id": 3,
+    "name": "Abdul Rahman",
+    "rating": 5,
+    "text": "Masha Allah! The guide was humble and warm-hearted. We performed Umrah with complete satisfaction. Hotel was near Masjid al-Haram with great food. The historical places and Ziyarah of Makkah and Madinah were wonderfully organized.",
+    "location": "Satara, India",
+    "package": "Basic Umrah Package"
+  },
+  {
+    "id": 4,
+    "name": "Maryam Khan",
+    "rating": 5,
+    "text": "Alhamdulillah! Did Umrah with my infant with amazing support. It was a last-minute plan — just 3 days before! Tickets and visa were arranged in record time. The team is so friendly and takes care of every individual like family members.",
+    "location": "Solapur, India",
+    "package": "Premium Umrah Package"
+  },
+  {
+    "id": 5,
+    "name": "Mohammed Farhan",
+    "rating": 5,
+    "text": "SubhanAllah! The best travel experience we've ever had. From the moment we landed to our departure, everything was seamlessly managed. The guides were knowledgeable and patient. Will definitely book again for our next Hajj.",
+    "location": "Hyderabad, India",
+    "package": "Budget Hajj Package"
+  },
+  {
+    "id": 6,
+    "name": "Ayesha Begum",
+    "rating": 5,
+    "text": "An unforgettable spiritual journey! The Clock Tower hotel room had a direct view of the Kaaba. The food was authentic South Indian — felt like home. The entire team went above and beyond to ensure our comfort. JazakAllah Khair!",
+    "location": "Mumbai, India",
+    "package": "Premium Umrah Package"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "budget-hajj",
+    "title": "Budget Hajj Package",
+    "category": "Hajj",
+    "price": "₹3,75,000",
+    "priceNote": "per person",
+    "duration": "21 Days / 20 Nights",
+    "hotel": "5 Star Hotel, 300m from Haram",
+    "hotelMakkah": "5 Star Hotel – 300 meters from Haram",
+    "hotelMadinah": "4 Star Hotel – Near Masjid an-Nabawi",
+    "image": "hajj.jpg",
+    "featured": true,
+    "description": "An affordable yet comfortable Hajj experience with quality accommodation close to the holy sites. Our budget package ensures you don't compromise on the essentials of your sacred journey.",
+    "inclusions": [
+      "5 Star Hotel 300 meters from Haram",
+      "Best South Indian Food",
+      "Experienced multilingual guides",
+      "D Category Hajj",
+      "Makkah & Madinah Ziyarah",
+      "Ground transportation",
+      "Visa processing assistance",
+      "24/7 on-ground support"
+    ],
+    "exclusions": [
+      "International airfare",
+      "Personal expenses",
+      "Qurbani charges",
+      "Travel insurance"
+    ]
+  },
+  {
+    "id": "premium-hajj",
+    "title": "Premium Hajj Package",
+    "category": "Hajj",
+    "price": "₹6,50,000",
+    "priceNote": "per person",
+    "duration": "25 Days / 24 Nights",
+    "hotel": "Makkah Clock Tower – 5 Star",
+    "hotelMakkah": "Makkah Clock Tower – Premium Rooms",
+    "hotelMadinah": "5 Star Hotel – Steps from Masjid an-Nabawi",
+    "image": "hajj.jpg",
+    "featured": true,
+    "description": "Our premium Hajj package offers the finest accommodation in the iconic Makkah Clock Tower with breathtaking views of the Haram. Experience Hajj in ultimate comfort and luxury.",
+    "inclusions": [
+      "5-star Makkah Clock Tower Rooms",
+      "Private & group transportation",
+      "Experienced multilingual guides",
+      "Best South Indian Food",
+      "Makkah & Madinah Ziyarah",
+      "VIP visa processing",
+      "Personal guide assigned",
+      "Laundry service included",
+      "24/7 premium support"
+    ],
+    "exclusions": [
+      "International airfare",
+      "Personal expenses",
+      "Travel insurance"
+    ]
+  },
+  {
+    "id": "short-hajj",
+    "title": "Short Hajj Package",
+    "category": "Hajj",
+    "price": "₹4,50,000",
+    "priceNote": "per person",
+    "duration": "15 Days / 14 Nights",
+    "hotel": "Makkah Clock Tower – 5 Star",
+    "hotelMakkah": "Makkah Clock Tower – Premium Rooms",
+    "hotelMadinah": "5 Star Hotel – Near Masjid an-Nabawi",
+    "image": "hajj.jpg",
+    "featured": false,
+    "description": "A shorter yet equally fulfilling Hajj journey for those with limited time. Premium accommodation and complete Hajj services in a compact schedule.",
+    "inclusions": [
+      "5-star Makkah Clock Tower Rooms",
+      "Group transportation",
+      "Experienced guides",
+      "Best South Indian Food",
+      "Makkah & Madinah Ziyarah",
+      "Visa processing",
+      "24/7 support"
+    ],
+    "exclusions": [
+      "International airfare",
+      "Personal expenses",
+      "Qurbani charges",
+      "Travel insurance"
+    ]
+  },
+  {
+    "id": "basic-umrah",
+    "title": "Basic Umrah Package",
+    "category": "Umrah",
+    "price": "₹92,786",
+    "priceNote": "per person",
+    "duration": "10 Days / 9 Nights",
+    "hotel": "Standard Hotel – 1km from Haram",
+    "hotelMakkah": "Standard Hotel – 1 km from Haram",
+    "hotelMadinah": "Standard Hotel – Near Masjid an-Nabawi",
+    "image": "basic.jpeg",
+    "featured": true,
+    "description": "Our most affordable Umrah package providing all the essentials for a blessed journey. Clean accommodation, guided Ziyarah, and authentic food included.",
+    "inclusions": [
+      "Standard Hotels (1 km from Haram)",
+      "South Indian Food",
+      "Experienced guides",
+      "Group transportation",
+      "Makkah & Madinah Ziyarah",
+      "Visa processing",
+      "Airport transfers"
+    ],
+    "exclusions": [
+      "International airfare",
+      "Personal expenses",
+      "Travel insurance"
+    ]
+  },
+  {
+    "id": "budget-umrah",
+    "title": "Budget Umrah Package",
+    "category": "Umrah",
+    "price": "₹82,786",
+    "priceNote": "per person",
+    "duration": "12 Days / 11 Nights",
+    "hotel": "Near Haram – 150m away",
+    "hotelMakkah": "Premium Hotel – 150 meters from Haram",
+    "hotelMadinah": "4 Star Hotel – Walking distance to Masjid an-Nabawi",
+    "image": "budget.jpeg",
+    "featured": false,
+    "description": "Upgrade your Umrah experience with premium hotels just steps away from the Haram. Enjoy private transfers, gourmet food, and personalized guidance throughout.",
+    "inclusions": [
+      "Hotel Near Haram (150 meters away)",
+      "Private transfers",
+      "Group transportation",
+      "Best South Indian Food",
+      "Makkah & Madinah Ziyarah",
+      "Visa processing",
+      "Priority check-in",
+      "24/7 support"
+    ],
+    "exclusions": [
+      "International airfare",
+      "Personal expenses",
+      "Travel insurance"
+    ]
+  },
+  {
+    "id": "ramzan-umrah",
+    "title": "Ramzan Umrah Package",
+    "category": "Umrah",
+    "price": "₹1,04,786",
+    "priceNote": "per person",
+    "duration": "14 Days / 13 Nights",
+    "hotel": "Clock Tower – 5 Star Luxury",
+    "hotelMakkah": "Makkah Clock Tower – 5 Star Luxury",
+    "hotelMadinah": "5 Star Hotel – Adjacent to Masjid an-Nabawi",
+    "image": "ramzan.jpeg",
+    "featured": false,
+    "description": "The ultimate Umrah experience with the finest luxury accommodation at the Clock Tower Hotel. Personal guide, VIP services, and complete peace of mind.",
+    "inclusions": [
+      "Clock Tower Hotel – 5 Star",
+      "Five star accommodation",
+      "Best South Indian Food",
+      "Personal Guide",
+      "Makkah & Madinah Ziyarah",
+      "VIP visa processing",
+      "Private luxury transfers",
+      "Concierge service",
+      "24/7 premium support"
+    ],
+    "exclusions": [
+      "International airfare",
+      "Personal expenses",
+      "Travel insurance"
+    ]
+  }
+]

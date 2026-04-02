@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "src": "/makkah/WhatsApp Image 2026-04-03 at 1.57.36 AM (1).jpeg",
+    "title": "Masjid al-Haram, Mecca",
+    "category": "Makkah"
+  },
+  {
+    "id": 2,
+    "src": "/makkah/WhatsApp Image 2026-03-30 at 10.28.30 AM.jpeg",
+    "title": "Group Photo at Mecca",
+    "category": "Makkah"
+  },
+  {
+    "id": 3,
+    "src": "/makkah/WhatsApp Image 2026-04-03 at 2.00.28 AM (1).jpeg",
+    "title": "Clock Tower Makkah",
+    "category": "Makkah"
+  },
+  {
+    "id": 4,
+    "src": "/makkah/WhatsApp Image 2026-03-30 at 10.28.42 AM.jpeg",
+    "title": "Bayt al-Mawlid",
+    "category": "Makkah"
+  },
+  {
+    "id": 5,
+    "src": "/makkah/WhatsApp Image 2026-03-30 at 10.28.31 AM.jpeg",
+    "title": "Pilgrims at Masjid al-Haram, Mecca",
+    "category": "Makkah"
+  },
+  {
+    "id": 6,
+    "src": "/madina/WhatsApp Image 2026-03-30 at 10.28.30 AM (1).jpeg",
+    "title": "Al-Masjid an-Nabawi, Madinah",
+    "category": "Madinah"
+  },
+  {
+    "id": 7,
+    "src": "/madina/WhatsApp Image 2026-03-30 at 10.28.30 AM (1).jpeg",
+    "title": "Our Pilgrims at Masjid an-Nabawi",
+    "category": "Madinah"
+  },
+  {
+    "id": 8,
+    "src": "/madina/WhatsApp Image 2026-04-03 at 2.00.28 AM (2).jpeg",
+    "title": "Muwajaha Sharif, Masjid an-Nabawi",
+    "category": "Madinah"
+  },
+  {
+    "id": 9,
+    "src": "gallery-hotel.png",
+    "title": "Premium Hotel makkah",
+    "category": "Hotels"
+  },
+  {
+    "id": 10,
+    "src": "hotel2.jpeg",
+    "title": "Hotel Al Ziady, Madinah",
+    "category": "Hotels"
+  },
+   {
+    "id": 11,
+    "src": "hotel3.jpg",
+    "title": "Hotel Amjad Al salam, Madinah",
+    "category": "Hotels"
+  },
+   {
+    "id": 12,
+    "src": "pilgrim1.jpg",
+    "category": "Pilgrims"
+  },
+  {
+    "id": 13,
+    "src": "pilgrim2.jpeg",
+    "category": "Pilgrims"
+  },
+  {
+    "id": 14,
+    "src": "pilgrim3.jpeg",
+    "category": "Pilgrims"
+  },
+  {
+    "id": 15,
+    "src": "pilgrim4.jpeg",
+    "category": "Pilgrims"
+  },
+  {
+    "id": 16,
+    "src": "pilgrim5.jpeg",
+    "category": "Pilgrims"
+  },
+  {
+    "id": 17,
+    "src": "pilgrim6.jpeg",
+    "category": "Pilgrims"
+  }
+]
