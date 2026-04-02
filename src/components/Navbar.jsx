@@ -4,7 +4,6 @@ import { FaBars, FaTimes } from 'react-icons/fa';
 import './Navbar.css';
 import logo from '../assets/bajm-tours-logo.png';
 
-
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -42,7 +41,7 @@ const Navbar = () => {
     <nav className={`navbar ${scrolled ? 'navbar-scrolled' : ''} ${isOpen ? 'navbar-open' : ''}`}>
       <div className="navbar-container container">
         <Link to="/" className="navbar-logo">
-        <img src={logo} alt="Bajm Tours Logo" className="logo-icon" />
+          <img src="./src/assets/bajm-tours-logo.png" alt="Bajm Tours Logo" className="logo-icon" />
           <div className="logo-text">
             <span className="logo-name">Bajm Tours</span>
             <span className="logo-tagline">Hajj & Umrah Services</span>
