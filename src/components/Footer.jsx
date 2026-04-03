@@ -51,7 +51,7 @@ const Footer = () => {
                 Hajj & Umrah services.
               </p>
               <div className="footer-socials">
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                <a href="https://www.instagram.com/niyazahmed_kazi/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                   <FaInstagram />
                 </a>
                 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@bajmtours.com" target="_blank" rel="noopener noreferrer" aria-label="Email">
